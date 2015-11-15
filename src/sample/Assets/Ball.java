@@ -58,6 +58,7 @@ public class Ball extends drawMan
         } while(false);
         return 0;
     }*/
+    //これ強いっすね
 
     public int isTouched(double x,double y,double width,double height,boolean isLeft)
     {
